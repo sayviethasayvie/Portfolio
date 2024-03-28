@@ -1,0 +1,22 @@
+h1{
+    color: pink;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+    font-size: 100px;
+}
+a:hover{
+    color: greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+img{
+    
+   
+    border-radius: 20%;
+    border-color: rgb(102, 19, 244);
+    border-width: 50px;
+    border-style: solid;
+
+}
